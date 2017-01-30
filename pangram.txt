@@ -1,0 +1,2 @@
+check if the sentence contains all the letters from a-z irrespective of upper case or lower case.
+If yes print 'pangram' else 'not pangram'
